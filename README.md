@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm Rudra Pratap Jena
+**DSA Enthusiasts || Developing Skills || SDE Aspirant from India**
+
+Email Me 👉 ✉️ **rudrajena928@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Enter your project name and info
+- 🌱 **I’m currently learning:** AI & ML; Coding and Web Dev; DSA in C++
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Enter your project name and info
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** rudrajena928@gmail.com
+- 😄 **Pronouns:** he/him
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-pratap-jena-a79933421) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/rudracodesdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudrajena928@gmail.com) 
