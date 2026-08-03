@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **rudrajena928@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project name and info
+- 🔭 **I’m currently working on:** Frontend of Clothing Website (Thread Co)
 - 🌱 **I’m currently learning:** AI & ML; Coding and Web Dev; DSA in C++
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 🤔 **I’m looking for help with:** Enter your project name and info
