@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Rudra Pratap Jena
-**DSA Enthusiasts || Developing Skills || SDE Aspirant from India**
+**Exploring multiple tech Subjects || Developing Skills || SDE Aspirant from India**
 
 Email Me 👉 ✉️ **rudrajena928@gmail.com** For Hiring/Project or Anything Else. 😊😊
 
