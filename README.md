@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Rudra Pratap Jena
 **DSA Enthusiasts || Developing Skills || SDE Aspirant from India**
 
-Email Me 👉 ✉️ **rudrajena928@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **rudrajena928@gmail.com** For Hiring/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Frontend of Clothing Website (Thread Co)
 - 🌱 **I’m currently learning:** AI & ML; Coding and Web Dev; DSA in C++
